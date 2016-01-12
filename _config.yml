@@ -1,9 +1,7 @@
-favicon: null
 name: Info Image
-opengraph:
-  image: null
-  type: null
-  appId: null
+favicon: null
+layout_spectrum: 0.5214823
+typography_spectrum: 0.5279269
 collections:
   - index:
       path: /
@@ -16,25 +14,27 @@ collections:
       number: 10
     permalink:
       path: '/:title/'
-purpose: []
-color:
-  saturation: 0.8469387
-  brandStrength: 0.6018468088004738
-  lightness: 0.7567132
-  brandColors:
-    - '#E0FBFC'
-    - '#C2DFE3'
-    - '#9DB4C0'
-    - '#5C6B73'
-    - '#253237'
-  rhythmicContrast: 1
-typography_spectrum: 0.5279269
 cta:
+  domain: null
   bucket: null
   version: null
-  domain: null
-layout_spectrum: 0.5214823
 analytics:
-  twitter: null
   google: null
   facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#ffffff'
+    - '#000000'
+    - '#ff0000'
+    - '#004dff'
+    - '#00b2ff'
+  brandStrength: 0.6018468088004738
+  lightness: 0.7567132
+  saturation: 0.8469387
+  rhythmicContrast: 1
+purpose: []
