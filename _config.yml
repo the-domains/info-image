@@ -1,28 +1,40 @@
-name: Info Image
 favicon: null
-layout_spectrum: 0.6133893979713321
-typography_spectrum: 0.45523469406180084
-cta:
-  domain: null
-  bucket: null
-  version: null
-analytics:
-  google: null
-  facebook: null
-  twitter: null
+name: Info Image
 opengraph:
   image: null
   type: null
   appId: null
+collections:
+  - index:
+      path: /
+      number: 15
+      paginate: true
+      navigable: true
+    permalink:
+      path: '/:title/'
+    feed:
+      path: /rss.xml
+      format: rss
+      number: 10
+purpose: []
 color:
+  saturation: 0.8469387
+  brandStrength: 0.6018468088004738
+  lightness: 0.1595059
   brandColors:
     - '#E0FBFC'
     - '#C2DFE3'
     - '#9DB4C0'
     - '#5C6B73'
     - '#253237'
-  brandStrength: 0.6018468088004738
-  lightness: 0.4973238850943744
-  saturation: 0.5948049284052104
-  rhythmicContrast: 0.9712569264229387
-purpose: []
+  rhythmicContrast: 1
+typography_spectrum: 0.5279269
+layout_spectrum: 0.5214823
+analytics:
+  twitter: null
+  google: null
+  facebook: null
+cta:
+  bucket: null
+  version: null
+  domain: null
