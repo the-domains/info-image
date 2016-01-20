@@ -1,11 +1,10 @@
 ---
-author: []
-related: []
-publisher:
-  url: 'http://www.grandstream.com'
-  name: Grandstream
-  favicon: 'http://www.grandstream.com/sites/default/files/favicon-grandstream-v1.ico'
-  domain: www.grandstream.com
+inFeed: true
+hasPage: false
+inNav: false
+isBasedOnUrl: 'http://www.grandstream.com/products/ip-voice-telephony/enterprise-ip-phones'
+inLanguage: en
+starred: false
 keywords:
   - conferencing
   - sip
@@ -18,17 +17,20 @@ keywords:
   - headsets
   - voice
 description: 'The GXP series of color-screen IP phones offers 3, 4 and 6 line IP phones with a suite of advanced VoIP calling features to maximize enterprise productivity and communication. Features such as HD audio support, a full color-screen operating system, various BLF/speed dial/extension module options and built-in Bluetooth offers users a powerful desktop experience.'
-inLanguage: en
+datePublished: '2016-01-20T10:55:43.433Z'
+dateModified: '2016-01-20T10:55:39.214Z'
+author: []
+related: []
 app_links: []
-isBasedOnUrl: 'http://www.grandstream.com/products/ip-voice-telephony/enterprise-ip-phones'
 title: 'Enterprise IP Phones | Grandstream Networks'
-datePublished: '2016-01-12T02:43:47.404Z'
-dateModified: '2016-01-12T02:41:29.097Z'
 sourcePath: _posts/2016-01-12-enterprise-ip-phones-or-grandstream-networks.md
 published: true
-inFeed: true
-hasPage: false
-inNav: false
+authors: []
+publisher:
+  name: Grandstream
+  domain: www.grandstream.com
+  url: 'http://www.grandstream.com'
+  favicon: 'http://www.grandstream.com/sites/default/files/favicon-grandstream-v1.ico'
 _context: 'http://schema.org'
 _type: MediaObject
 
