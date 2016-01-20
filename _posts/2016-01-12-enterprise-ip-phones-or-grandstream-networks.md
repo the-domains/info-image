@@ -4,7 +4,7 @@ hasPage: false
 inNav: false
 isBasedOnUrl: 'http://www.grandstream.com/products/ip-voice-telephony/enterprise-ip-phones'
 inLanguage: en
-starred: false
+starred: true
 keywords:
   - conferencing
   - sip
@@ -17,8 +17,8 @@ keywords:
   - headsets
   - voice
 description: 'The GXP series of color-screen IP phones offers 3, 4 and 6 line IP phones with a suite of advanced VoIP calling features to maximize enterprise productivity and communication. Features such as HD audio support, a full color-screen operating system, various BLF/speed dial/extension module options and built-in Bluetooth offers users a powerful desktop experience.'
-datePublished: '2016-01-20T10:55:43.433Z'
-dateModified: '2016-01-20T10:55:39.214Z'
+datePublished: '2016-01-20T10:58:50.266Z'
+dateModified: '2016-01-20T10:58:45.067Z'
 author: []
 related: []
 app_links: []
@@ -35,4 +35,4 @@ _context: 'http://schema.org'
 _type: MediaObject
 
 ---
-<article style=""><h1>Enterprise IP Phones &amp;vert; Grandstream Networks</h1><p>The GXP series of color-screen IP phones offers 3&amp;comma; 4 and 6 line IP phones with a suite of advanced VoIP calling features to maximize enterprise productivity and communication&amp;period; Features such as HD audio support&amp;comma; a full color-screen operating system&amp;comma; various BLF&amp;sol;speed dial&amp;sol;extension module options and built-in Bluetooth offers users a powerful desktop experience&amp;period;</p><img src="http://www.grandstream.com/sites/default/files/styles/product_270x270/public/GXP2160%20Enterprise%20IP%20Telephone.jpg?itok=y1WVrzq4" /></article>
+<article style=""><h1>Enterprise IP Phones | Grandstream Networks</h1><p>The GXP series of color-screen IP phones offers 3, 4 and 6 line IP phones with a suite of advanced VoIP calling features to maximize enterprise productivity and communication. Features such as HD audio support, a full color-screen operating system, various BLF/speed dial/extension module options and built-in Bluetooth offers users a powerful desktop experience.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/0f4244a8f46044ad5b854f5151125bfb9062615e.jpg" /></article>
